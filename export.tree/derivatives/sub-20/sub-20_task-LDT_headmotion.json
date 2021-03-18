@@ -1,8 +1,0 @@
-{
-  "x" : {"Description" : "headmovement of x"},
-  "y" : {"Description" : "headmovement of y"},
-  "z" : {"Description" : "headmovement of z"},
-  "roll" : {"Description" : "headmovement of roll"},
-  "pitch" : {"Description" : "headmovement of pitch"},
-  "yaw" : {"Description" : "headmovement of yaw"}
-}
